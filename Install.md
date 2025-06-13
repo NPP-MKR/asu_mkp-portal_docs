@@ -43,7 +43,7 @@
 * Когда вы получите доступ выполнить для клонирования репозитория (**folder-name** замените директорией куда вы хотите клонировать репозиторий):
 
 ```
- git clone git@bitbucket.org:mkp_/mkp-portalOriginal.git folder-name
+ git clone git@github.com:NPP-MKR/mkp-portaloriginal.git folder-name
 ```
 
 * Подтянуть зависимые пакеты через [composer](https://getcomposer.org/):
