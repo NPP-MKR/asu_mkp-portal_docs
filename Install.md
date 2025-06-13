@@ -61,4 +61,4 @@
 * В файле */common/config/main-local.php* заполнить пути, логин и пароль к базе BD и BDD.
 
 
-* Прописать *DocumentRoot* поддоменов на директории *web* соответствующих модулей, например, */api/web* (какие есть модули можно посмотреть [здесь](https://bitbucket.org/mkp_/mkp-portalOriginal/wiki/Reference))
+* Прописать *DocumentRoot* поддоменов на директории *web* соответствующих модулей, например, */api/web* (какие есть модули можно посмотреть [здесь](Reference.md))
