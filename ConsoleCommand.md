@@ -9,4 +9,6 @@ php yii openapi
 php yii favicon
 ```
 * Очищает все кэши, зарегистрированные в системе.
+```
 php yii cache/flush-all
+```
